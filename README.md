@@ -38,9 +38,10 @@ I define myself professionally as a data scientist / analyst specializing in geo
 
 <br/>
 
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078d7)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&labelColor=black&logo=anaconda&logoColor=44A833)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54)
 ![Pyspark](https://img.shields.io/badge/pyspark-black?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
 
@@ -70,9 +71,9 @@ I define myself professionally as a data scientist / analyst specializing in geo
 
 <br/>
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=001E59)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![qgis](https://img.shields.io/badge/qgis-000000?style=for-the-badge&logo=qgis&logoColor=589632)
+![Tableau](https://img.shields.io/badge/Tableau-00A1E0?style=for-the-badge&labelColor=black&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=F2C811)
+![qgis](https://img.shields.io/badge/qgis-589632?style=for-the-badge&labelColor=black&logo=qgis&logoColor=589632)
 
 ##### Others
 
