@@ -52,8 +52,8 @@ I define myself professionally as a data scientist / analyst specializing in geo
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&labelColor=white&logo=pandas&logoColor=150458)
 ![Geopandas](https://img.shields.io/badge/Geopandas-139C5A?style=for-the-badge&labelColor=white&logo=geopandas&logoColor=139C5A)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&labelColor=white&logo=numpy&logoColor=013243)
-![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=F7931E)
-![plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&labelColor=3F4F75&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=F7931E)
+![plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&labelColor=black&logo=plotly&logoColor=3F4F75)
 ![scipy](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&labelColor=black&logo=scipy&logoColor=8CAAE6)
 ![keras](https://img.shields.io/badge/keras-black?style=for-the-badge&labelColor=black&logo=keras&logoColor=D00000)
 
@@ -61,11 +61,11 @@ I define myself professionally as a data scientist / analyst specializing in geo
 
 <br/>
 
-![googlecloud](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![googlecloudstorage](https://img.shields.io/badge/google_cloud_storage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=black)
-![googledataproc](https://img.shields.io/badge/google_dataproc-AECBFA?style=for-the-badge&logo=googledataproc&logoColor=black)
-![looker](https://img.shields.io/badge/looker-AECBFA?style=for-the-badge&logo=looker&logoColor=black)
-![googlebigquery](https://img.shields.io/badge/google_bigquery-AECBFA?style=for-the-badge&logo=googlebigquery&logoColor=black)
+![googlecloud](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&labelColor=black&logo=googlecloud&logoColor=4285F4)
+![googlecloudstorage](https://img.shields.io/badge/google_cloud_storage-AECBFA?style=for-the-badge&labelColor=black&logo=googlecloudstorage&logoColor=AECBFA)
+![googledataproc](https://img.shields.io/badge/google_dataproc-AECBFA?style=for-the-badge&labelColor=black&logo=googledataproc&logoColor=AECBFA)
+![looker](https://img.shields.io/badge/looker-AECBFA?style=for-the-badge&logo=looker&labelColor=black&logoColor=AECBFA)
+![googlebigquery](https://img.shields.io/badge/google_bigquery-AECBFA?style=for-the-badge&labelColor=black&logo=googlebigquery&logoColor=AECBFA)
 
 ##### Business Intelligence & GIS
 
@@ -79,9 +79,9 @@ I define myself professionally as a data scientist / analyst specializing in geo
 
 <br/>
 
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
-![gimp](https://img.shields.io/badge/gimp-000000?style=for-the-badge&logo=gimp&logoColor=5C5543)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&labelColor=black&logo=powerapps&logoColor=742774)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&labelColor=black&logo=mapbox&logoColor=white)
+![gimp](https://img.shields.io/badge/gimp-000000?style=for-the-badge&labelColor=black&logo=gimp&logoColor=5C5543)
 
